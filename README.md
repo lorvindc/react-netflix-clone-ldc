@@ -2,6 +2,9 @@
 
 This [Netflix Clone](https://netflix-clone-ldc.web.app/) project is deployed using Firebase.
 
+Credits to the following tutorial, tutorial below is for Javascript but this app is writted using Typescript.
+https://www.mindluster.com/lesson/55629
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
